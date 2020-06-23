@@ -22,3 +22,9 @@ print("hello ")
 ##我在他的基础上新写的代码
 ##我在他的基础上新写的代码
 #我在他的基础上新写的代码
+#
+#print("hello python")
+print("hello python")
+print("hello python")
+print("hello python")
+print("hello ")
