@@ -5,11 +5,6 @@ print("hello 123")
 <<<<<<< HEAD
 #
 print("hello python")
-print("hello python")
-print("hello python")
-print("hello python")
-print("hello ")
-print("hello ")
 =======
 >>>>>>> master
 
