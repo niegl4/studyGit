@@ -2,6 +2,7 @@ print("hello world")
 print("hello 123")
 print("hello 123")
 
+<<<<<<< HEAD
 #
 print("hello python")
 print("hello python")
@@ -9,6 +10,8 @@ print("hello python")
 print("hello python")
 print("hello ")
 print("hello ")
+=======
+>>>>>>> master
 
 #同事新写的代码1
 #同事新写的代码2
