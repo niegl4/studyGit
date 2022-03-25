@@ -1,1 +1,1 @@
-print("add a b c")
+print("add a")
